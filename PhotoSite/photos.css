@@ -1,0 +1,53 @@
+img {
+  width: 45%;
+  /* margin: 1.6666666%; */
+  margin: calc(10% / 6);
+}
+
+body {
+  background-color: aliceblue;
+}
+
+nav {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  border-bottom: 2px solid #f1f1f1;
+  text-align: center;
+  /* width: 30%;
+  margin-left: calc(10% / 6); */
+  padding: 1.2em 0;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  /* margin-left: calc(10% / 6); */
+  text-align: center;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+  font-size: 1em;
+  color: crimson;
+  /* margin-left: calc(10% / 6); */
+  text-align: center;
+}
+
+#canada {
+  text-align: center;
+  color: black;
+}
+#colombia {
+  text-align: center;
+  color: black;
+}
+
+#france {
+  text-align: center;
+  color: black;
+}
+/* 30 + 30 + 30
+
+10% */
